@@ -1,0 +1,11 @@
+base.url = "https://www.specialtgclub.com/"
+individual1.email = testindividual1@mailinator.com
+individual1.password = 12345
+individual3.email = priyanka@pacificict.co.nz
+individual3.password = Test@123
+individual2.email = test2@mailinator.com
+user.invalidPassword = 33333
+randomIndividual.address = 54 Sir William Avenue, East Tamaki
+randomIndividual.city = Auckland
+randomIndividual.country = New Zealand
+randomIndividual.zip = 2013

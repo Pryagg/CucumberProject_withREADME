@@ -1,0 +1,50 @@
+package stepDefinitions;
+
+import cucumber.api.java.en.And;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+import helpers.HelperMethods;
+import org.junit.Assert;
+
+import context.TestContext;
+import pages.OrderConfirmation;
+
+public class OrderConfirmationSteps {
+	TestContext testContext;
+	OrderConfirmation orderConfirmation;
+	HelperMethods helperMethods;
+	
+	public OrderConfirmationSteps(TestContext context) {
+		testContext = context;
+		orderConfirmation = context.getPageObjectManager().getOrderConfirmation();
+		helperMethods = context.getPageObjectManager().getHelperMethods();
+	}
+	
+	@When("^I select all the terms$")
+	public void select_terms() {
+		orderConfirmation.personalUseTerm().click();
+		orderConfirmation.prescribedMedicinesTerm().click();
+//		orderConfirmation.covidTerm().click();
+	}
+
+	@And("^I enter doctor's name$")
+	public void enter_doctor_name(){ orderConfirmation.doctortNameTextInput().clear();
+	orderConfirmation.doctortNameTextInput().sendKeys("Greg Barter");}
+	
+	@And("^I enter patient's name$")
+	public void enter_patient_name() {
+		orderConfirmation.patientNameTextInput().sendKeys("Anna Bek");
+	}
+	
+	@Then("^I click on Complete Order Now$")
+	public void click_complete_order() {
+		orderConfirmation.completeOrderButton().click();
+	}
+	
+	@Then("^I verify that the order is successfully placed$")
+	public void verify_successful_order() {
+		helperMethods.waitOnElementToBeVisible(orderConfirmation.orderConfirmationHeading(), 20);
+		Assert.assertTrue(orderConfirmation.orderConfirmationHeading().isDisplayed());
+	}
+
+}

@@ -1,0 +1,12 @@
+
+url=https://www.specialtgclub.com/
+branch=stg
+
+os.name=windows
+browser.name=CHROME
+
+environment=local
+
+windowMaximize=true
+implicitlyWait=10
+

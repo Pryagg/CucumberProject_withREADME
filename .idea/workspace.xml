@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bebf69f-a889-44fe-953c-9b901e1dcb74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kOLVy1oVhO03BhowVqbdOEen8T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestAutomationProjects/test" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\InhousePharmacyautomatedtest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Scenario: Verify that product details page is displayed when clicked on Continue shopping" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Cart.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="InhousePharmacy" />
+      <option name="NAME_FILTER" value="^Verify that product details page is displayed when clicked on Continue shopping$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Verify that product details page is displayed when clicked on Continue shopping$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify that product details page is displayed when clicked on Continue shopping" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify the  successful order for US customers for Guest User" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/EndToEnd.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="InhousePharmacy" />
+      <option name="NAME_FILTER" value="^Verify the  successful order for US customers for Guest User$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Verify the  successful order for US customers for Guest User$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify the  successful order for US customers for Guest User" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify the  successful order for US customers for SignedIn user" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/EndToEnd.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="InhousePharmacy" />
+      <option name="NAME_FILTER" value="^Verify the  successful order for US customers for SignedIn user$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Verify the  successful order for US customers for SignedIn user$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify the  successful order for US customers for SignedIn user" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify the  successful order" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/EndToEnd.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="InhousePharmacy" />
+      <option name="NAME_FILTER" value="^Verify the  successful order$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Verify the  successful order$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify the  successful order" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InhousePharmacy" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Verify the  successful order" />
+        <item itemvalue="Cucumber Java.Scenario: Verify the  successful order for US customers for Guest User" />
+        <item itemvalue="Cucumber Java.Scenario: Verify the  successful order for US customers for SignedIn user" />
+        <item itemvalue="Cucumber Java.Scenario: Verify that product details page is displayed when clicked on Continue shopping" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\priyanka\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bebf69f-a889-44fe-953c-9b901e1dcb74" name="Default Changelist" comment="" />
+      <created>1605566720112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605566720112</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3623" y="594" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1622775521283">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3623" y="594" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1622775521283" />
+    <state x="3641" y="524" key="FileChooserDialogImpl" timestamp="1621800128028">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3641" y="524" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1621800128028" />
+    <state width="2517" height="498" key="GridCell.Tab.0.bottom" timestamp="1623814197898">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1493" height="426" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620356367298" />
+    <state width="2517" height="426" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1619643977572" />
+    <state width="2517" height="498" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1623814197898" />
+    <state width="2517" height="260" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1622768502618" />
+    <state width="2517" height="498" key="GridCell.Tab.0.center" timestamp="1623814197898">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1493" height="426" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620356367298" />
+    <state width="2517" height="426" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1619643977572" />
+    <state width="2517" height="498" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1623814197898" />
+    <state width="2517" height="260" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1622768502618" />
+    <state width="2517" height="498" key="GridCell.Tab.0.left" timestamp="1623814197897">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1493" height="426" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620356367298" />
+    <state width="2517" height="426" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1619643977572" />
+    <state width="2517" height="498" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1623814197897" />
+    <state width="2517" height="260" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1622768502618" />
+    <state width="2517" height="498" key="GridCell.Tab.0.right" timestamp="1623814197898">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1493" height="426" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620356367298" />
+    <state width="2517" height="426" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1619643977572" />
+    <state width="2517" height="498" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1623814197898" />
+    <state width="2517" height="260" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1622768502618" />
+    <state width="2500" height="260" key="GridCell.Tab.1.bottom" timestamp="1622768505546">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1493" height="426" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620356367298" />
+    <state width="2517" height="426" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1619643977573" />
+    <state width="2500" height="260" key="GridCell.Tab.1.bottom/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1622768505546" />
+    <state width="2517" height="260" key="GridCell.Tab.1.bottom/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1622580853663" />
+    <state width="2500" height="260" key="GridCell.Tab.1.center" timestamp="1622768505545">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1493" height="426" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1620356367298" />
+    <state width="2517" height="426" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1619643977573" />
+    <state width="2500" height="260" key="GridCell.Tab.1.center/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1622768505545" />
+    <state width="2517" height="260" key="GridCell.Tab.1.center/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1622580853663" />
+    <state width="2500" height="260" key="GridCell.Tab.1.left" timestamp="1622768505545">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1493" height="426" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1620356367298" />
+    <state width="2517" height="426" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1619643977573" />
+    <state width="2500" height="260" key="GridCell.Tab.1.left/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1622768505545" />
+    <state width="2517" height="260" key="GridCell.Tab.1.left/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1622580853663" />
+    <state width="2500" height="260" key="GridCell.Tab.1.right" timestamp="1622768505545">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1493" height="426" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1620356367298" />
+    <state width="2517" height="426" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1619643977573" />
+    <state width="2500" height="260" key="GridCell.Tab.1.right/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1622768505545" />
+    <state width="2517" height="260" key="GridCell.Tab.1.right/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1622580853663" />
+    <state x="781" y="344" key="SettingsEditor" timestamp="1621967071168">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="344" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1621967071168" />
+    <state x="3341" y="344" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1621800135479" />
+    <state x="3716" y="308" width="672" height="678" key="search.everywhere.popup" timestamp="1621542481718">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1156" y="308" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1619984636369" />
+    <state x="3716" y="308" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1621542481718" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/managers/TestDriver.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/AccountSteps.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/CartSteps.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/CartSteps.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/HomePageSteps.java</url>
+          <line>203</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/AccountSteps.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/CartSteps.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/CartSteps.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/Cart.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/Cart.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/CartSteps.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/Cart.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/CartSteps.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/CategoriesSteps.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/HomePageSteps.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/HomePageSteps.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/CategoriesSteps.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/HomePageSteps.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/AccountSteps.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/ProductSteps.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/ProductSteps.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/AccountSteps.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/CategoriesSteps.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/CategoriesSteps.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/HomePage.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/OrderConfirmationSteps.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pages/Account.java</url>
+          <line>145</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/AccountSteps.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/PaymentSteps.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/OrderConfirmationSteps.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/OrderConfirmationSteps.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/OrderConfirmationSteps.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/OrderConfirmationSteps.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/OrderConfirmationSteps.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/enums/BrowserType.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/CartSteps.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/ShippingSteps.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/OrderConfirmationSteps.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/helpers/Props.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/HomePageSteps.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/Hooks.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/managers/TestDriver.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/managers/BaseDriver.java</url>
+          <line>151</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/configuration/Configuration.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/AccountSteps.java</url>
+          <line>99</line>
+          <properties class="stepDefinitions.AccountSteps" method="verify_my_account_page">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/CartSteps.java</url>
+          <line>65</line>
+          <properties class="stepDefinitions.CartSteps" method="enter_gift_card_value">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="getBaseUrl" />
+      </configuration>
+      <configuration name="CucumberJavaRunConfigurationType">
+        <watch expression="countryname" />
+        <watch expression="option.getText()" />
+        <watch expression="env" />
+        <watch expression="props.getProperty" />
+        <watch expression="props.getProperty(&quot;guestuser&quot; + user + &quot;.email&quot;)" />
+        <watch expression="props.getProperty(key)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Scenario__Verify_the_new_registration.ic" NAME="Scenario: Verify the new registration Coverage Results" MODIFIED="1607539625387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Scenario__Verify_the__successful_order_for_US_customers_for_Guest_User.ic" NAME="Scenario: Verify the  successful order for US customers for Guest User Coverage Results" MODIFIED="1613606156955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Feature__EndToEnd.ic" NAME="Feature: EndToEnd Coverage Results" MODIFIED="1611166165478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Feature__HomePage.ic" NAME="Feature: HomePage Coverage Results" MODIFIED="1610319095551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Scenario__Invalid_gift_card.ic" NAME="Scenario: Invalid gift card Coverage Results" MODIFIED="1607363616573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Scenario__Verify_the_successful_order.ic" NAME="Scenario: Verify the successful order Coverage Results" MODIFIED="1609879057437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Scenario__Remove_from_cart.ic" NAME="Scenario: Remove from cart Coverage Results" MODIFIED="1607361562987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Scenario__Verify_the__successful_order_for_US_customers_for_SignedIn_user.ic" NAME="Scenario: Verify the  successful order for US customers for SignedIn user Coverage Results" MODIFIED="1612809429559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Feature__Products.ic" NAME="Feature: Products Coverage Results" MODIFIED="1611017288222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Scenario__Verify_the__successful_order.ic" NAME="Scenario: Verify the  successful order Coverage Results" MODIFIED="1611532487706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InhousePharmacy$TestRunner.ic" NAME="TestRunner Coverage Results" MODIFIED="1607220720987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Scenario__Verify_that_product_details_page_is_displayed_when_clicked_on_Continue_shopping.ic" NAME="Scenario: Verify that product details page is displayed when clicked on Continue shopping Coverage Results" MODIFIED="1607284840945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Feature__Account.ic" NAME="Feature: Account Coverage Results" MODIFIED="1606327768586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Scenario__Verify_the__successful_order_for_US_customers.ic" NAME="Scenario: Verify the  successful order for US customers Coverage Results" MODIFIED="1611518093787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InhousePharmacy$Scenario__Verify_the_elements_displayed_on_Cart_page.ic" NAME="Scenario: Verify the elements displayed on Cart page Coverage Results" MODIFIED="1607969902453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+  </component>
+</project>

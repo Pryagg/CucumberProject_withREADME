@@ -1,0 +1,13 @@
+
+url=https://www.inhousepharmacy.vu
+branch=live
+
+os.name=windows
+
+browser.name=CHROME
+
+environment=local
+
+windowMaximize=true
+implicitlyWait=10
+
